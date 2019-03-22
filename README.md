@@ -1,4 +1,2 @@
-# Metro-Swiss
-Projekt Metro Swiss
-Projekt Metro Swiss Haltestellen
-Projekt Metro Swiss Ticketing System
+
+<?php header( 'Location: /public_html/index.html' ); ?>
